@@ -1,0 +1,28 @@
+{
+    "id": "D3DE678B",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1702041372537.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "id": "94022b722ee849f6a50cefef0ad05932",
+        "name": "data",
+        "title": "data",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1702041372537,
+    "read_only": false,
+    "read_only_alternatives": []
+}

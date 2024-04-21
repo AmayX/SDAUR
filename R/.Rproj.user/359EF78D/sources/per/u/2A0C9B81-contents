@@ -1,0 +1,6 @@
+for (i in Placement_Data_Full_Class) {
+  if(i["gender"]=="Male")
+    gender=1
+  else
+    gender=0
+}

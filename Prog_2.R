@@ -1,0 +1,5 @@
+Roll_no = c(101,102,103,104,105)
+name = c("Xyz","Abc","Pqr","Lmn","PPP")
+SGPA = c(9.5,6.4,8.8,7.9,6)
+Grade = c("O","D","A","B","D")
+Result = data.frame(Roll_no,name,SGPA,Grade)

@@ -1,0 +1,7 @@
+View(CO2)
+
+library(dplyr)
+
+d1 = group_by(CO2, Plant)
+d2 = summarize(d1, conc_mean=mean(conc), uptake_mean=mean(uptake), sd_conc=sd(conc), sd_uptake=sd(uptake))
+View(d2)
